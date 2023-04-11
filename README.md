@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkurpmax
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Mechatronics
+- 🌱 I’m currently studying Mechatronics
 - 💞️ I'm still studying
 - 📫 Reach me on vkurpmax@protonmail.com
 
